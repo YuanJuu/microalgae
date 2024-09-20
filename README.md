@@ -1,1 +1,1 @@
-# microalgae
+# Microalgae training and testing data
